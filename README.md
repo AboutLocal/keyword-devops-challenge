@@ -45,7 +45,7 @@ Additionally, fill out the functions docker_build() and docker_run() as per the 
 ## The Challenge - part 2
 
 
-You have been provided an AWS sandbox environment with credentials provided in the CSV file shared with you. The user has no permissions, please let us know the minimum viable permissions required (preferably as JSON, and restricted to one AWS region) in order to complete the following tasks -
+You have been provided an AWS sandbox environment with credentials provided in the CSV file shared with you. The user has no permissions. Please let us know the minimum viable permissions required (preferably as JSON, and restricted to one AWS region) in order to complete the following tasks -
 
 
 - Configure security groups 
@@ -54,4 +54,4 @@ You have been provided an AWS sandbox environment with credentials provided in t
 - Load balance the two servers having the same address using ELB
 
 
-Once you receive the permissions, please deploy your solution to the sandbox environment! :)
+Once you receive the permissions, deploy your solution to the sandbox environment! :)
