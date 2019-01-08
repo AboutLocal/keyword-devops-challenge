@@ -54,4 +54,4 @@ You have been provided an AWS sandbox environment with credentials provided in t
 - Load balance the two servers having the same address using ELB
 
 
-Having done that, execute the tasks! :)
+Having done that, deploy your solution to the sandbox environment! :)
